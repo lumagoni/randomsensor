@@ -1,0 +1,12 @@
+{
+  "name": "randomsensor",
+  "version": "1.0.0",
+  "description": "Random sensor data generator",
+  "main": "randomsensor.js",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["sensor", "random", "data"],
+  "author": "",
+  "license": "ISC"
+}
